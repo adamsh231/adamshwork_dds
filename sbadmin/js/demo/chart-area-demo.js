@@ -42,7 +42,7 @@ var getJSON = function(url, callback) {
   xhr.send();
 }; 
 
-getJSON('https://ddspkmbareng.id/index.php/DDS_Json',function(err, data){
+getJSON('https://dds.mathnow.fun/index.php/DDS_Json',function(err, data){
     if (err !== null) {
       alert('Something went wrong: ' + err);
     } else {
