@@ -143,7 +143,7 @@
     };
 
     var umur = [];
-    getJSON('https://ddspkmbareng.id/index.php/DDS_Json/autoValue/', function(err, data) {
+    getJSON('https://dds.mathnow.fun/index.php/DDS_Json/autoValue/', function(err, data) {
         if (err !== null) {
             alert('Something went wrong: ' + err);
         } else {
@@ -181,7 +181,7 @@
     }
 
     function lakukanJson(usia) {
-        getJSON('https://ddspkmbareng.id/index.php/DDS_Json/autoValue/' + usia, function(err, data) {
+        getJSON('https://dds.mathnow.fun/index.php/DDS_Json/autoValue/' + usia, function(err, data) {
             if (err !== null) {
                 alert('Something went wrong: ' + err);
             } else {

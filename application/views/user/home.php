@@ -368,7 +368,7 @@
 
   var jk = document.getElementById("jenisKelamin").value;
 
-  getJSON('https://ddspkmbareng.id/index.php/DDS_Json/autoValueBB/' + jk, function(err, data) {
+  getJSON('https://dds.mathnow.fun/index.php/DDS_Json/autoValueBB/' + jk, function(err, data) {
     if (err !== null) {
       alert('Something went wrong: ' + err);
     } else {
@@ -400,7 +400,7 @@
       datax['sd2'] = sd2;
       datax['sd3'] = sd3;
 
-      getJSON('https://ddspkmbareng.id/index.php/DDS_Json/getRecord/', function(err2, data2) {
+      getJSON('https://dds.mathnow.fun/index.php/DDS_Json/getRecord/', function(err2, data2) {
         if (err2 !== null) {
           alert('Something went wrong: ' + err2);
         } else {
