@@ -155,11 +155,11 @@
 				$('#username').val('superadmin');
 				$('#password').val('superadmin');
 			}else if (id == 2){
-				$('#username').val('renny');
-				$('#password').val('renny123');
+				$('#username').val('admin');
+				$('#password').val('admin');
 			}else{
-				$('#username').val('firda');
-				$('#password').val('firda123');
+				$('#username').val('user');
+				$('#password').val('user');
 			}
 		}
 	</script>
