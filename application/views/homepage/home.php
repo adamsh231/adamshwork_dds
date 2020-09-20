@@ -111,8 +111,8 @@
 				<h5 class="text-warning"><small>Please read this before exploring</small></h5>
 				<p class="text-info text-justify">
 					<small>
-						<strong>Note:</strong> Some feature and function may have modified, turned off, and maybe disfunction
-						to make it easier for explore. The data in this website has been randomized due tue privacy
+						<strong>Note:</strong> Some feature and function has been modified, turned off and maybe disfunction
+						to make it easier for explore. The data has been randomized due tue privacy
 					</small>
 				</p>
 			</div>
