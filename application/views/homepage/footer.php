@@ -106,16 +106,6 @@
                 <!-- Active js -->
                 <script src="<?php echo base_url() ?>uza/js/default-assets/active.js"></script>
 
-                <!-- BEGIN: Powered by Supercounters.com -->
-                <center>
-                    <script type="text/javascript" src="//widget.supercounters.com/ssl/tab.js"></script>
-                    <script type="text/javascript">
-                        var sc_tab_var = sc_tab_var || [];
-                        sc_tab(1553503, "bottom", "bottom")
-                    </script><br><noscript><a href="http://www.supercounters.com/">free Online Counter</a></noscript>
-                </center>
-                <!-- END: Powered by Supercounters.com -->
-
                 </body>
 
                 </html>
